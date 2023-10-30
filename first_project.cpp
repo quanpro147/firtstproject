@@ -44,3 +44,4 @@ int main()
 		cout << a[i];
 	}
 }
+// nothing
